@@ -1,0 +1,7 @@
+name: HSB-Mechanics
+version: '${project.version}'
+main: me.krzu.hsbmechanics.HSBMechanics
+api-version: '1.21'
+description: 'Some of the Hypixel Skyblock Mechanics'
+author: iKztu
+website: 'https://krzu.me'
